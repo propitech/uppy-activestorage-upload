@@ -1,12 +1,13 @@
 # uppy-activestorage-upload
 
-<img src="https://uppy.io/images/logos/uppy-dog-head-arrow.svg" width="120" alt="Uppy logo: a superman puppy in a pink suit" align="right">
+<img src="https://uppy.io/img/logo.svg" width="120" alt="Uppy logo: a smiling puppy above a pink upwards arrow" align="right">
 
-The ActiveStorage Upload plugin handles Ruby on Rails ActiveStorage direct uploads with Uppy.
+The ActiveStorage Upload plugin handles Ruby on Rails ActiveStorage direct uploads with Uppy.<br><br><br>
 
 ## Example
 
 Add this line to your HEAD tag.
+
 ```erb
 <%= tag.meta name: "direct-upload-url", content: rails_direct_uploads_path %>
 ```
